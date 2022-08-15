@@ -25,7 +25,7 @@ This app was built with:
 
 ## Installation
 
-To run locally, clone the repository to your local machine and open with your preffered browser.
+To run locally, clone the repository to your local machine and open with your preferred browser.
 
 ## License
     

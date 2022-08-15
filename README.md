@@ -6,6 +6,8 @@
 
 A browser alert/prompt game where you can enter your robot into battle and clash against other robots. The game is turn-based and you can also upgrade your robot's stats and refill health with in-game currency! Player high-scores are saved to local storage. The game is over when the enemy's or your health is depleted.
 
+![app screenshot](./assets/images/app-ss.png)
+
 ## Table of Contents
 
 - [Technologies](#technologies)
